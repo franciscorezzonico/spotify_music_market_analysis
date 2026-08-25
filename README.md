@@ -65,7 +65,7 @@ The original `spotify_data.csv` file is not included because it exceeds GitHub�
 ## Repository structure
 
 ```text
-spotify-music-market-analysis/
+spotify_music_market_analysis/
 ├── code/
 │   └── 01_data_wrangling.R
 │   └── 02_exploratory_data_analysis.R
